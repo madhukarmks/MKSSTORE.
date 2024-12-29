@@ -760,8 +760,6 @@ ul {
     right: 40%;
     height: 100%;
     width: 100%;
-    background-image: url("https://i.ibb.co/LJhbxgX/Screenshot-2024-12-29-213226.png");
-    
     animation: typing 4s steps(7);
     animation-iteration-count:infinite;
   }
